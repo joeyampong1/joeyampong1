@@ -55,10 +55,35 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=joeyampong1&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  </a>
+</p>
+
+### 🔥 Contribution Streak
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=joeyampong1&theme=radical&hide_border=true&background=1B3B36&ring=F07A3A&fire=F07A3A&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F07A3A&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  </a>
+</p>
+
+### 📈 Activity Graph
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joeyampong1&bg_color=1B3B36&color=F07A3A&line=F07A3A&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
+</p>
+
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joeyampong1&show_icons=true&theme=radical&hide_border=true&bg_color=1B3B36&title_color=F07A3A&icon_color=F07A3A&text_color=ffffff" alt="Joey's GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeyampong1&layout=compact&theme=radical&hide_border=true&bg_color=1B3B36&title_color=F07A3A&text_color=ffffff" alt="Top Languages" height="180em" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=joeyampong1&show_icons=true&theme=radical&hide_border=true&bg_color=1B3B36&title_color=F07A3A&icon_color=F07A3A&text_color=ffffff" alt="Joey's GitHub Stats" height="180em" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeyampong1&layout=compact&theme=radical&hide_border=true&bg_color=1B3B36&title_color=F07A3A&text_color=ffffff" alt="Top Languages" height="180em" />
+  </a>
 </p>
 
 <p align="center">
